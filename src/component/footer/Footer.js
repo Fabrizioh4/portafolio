@@ -12,7 +12,6 @@ const Footer = () => {
             </div>
             <div className="footer-contact">
                 <h3>Contact Me</h3>
-                <p>fabriziomasiero0@gmail.com</p>
             </div>
             <div className="footer-sns">
                 <div className="design-by">
